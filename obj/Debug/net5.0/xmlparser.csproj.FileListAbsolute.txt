@@ -1,0 +1,15 @@
+/Users/main/xmlparser/bin/Debug/net5.0/xmlparser.deps.json
+/Users/main/xmlparser/bin/Debug/net5.0/xmlparser.runtimeconfig.json
+/Users/main/xmlparser/bin/Debug/net5.0/xmlparser.runtimeconfig.dev.json
+/Users/main/xmlparser/bin/Debug/net5.0/xmlparser.dll
+/Users/main/xmlparser/bin/Debug/net5.0/ref/xmlparser.dll
+/Users/main/xmlparser/bin/Debug/net5.0/xmlparser.pdb
+/Users/main/xmlparser/obj/Debug/net5.0/xmlparser.csproj.AssemblyReference.cache
+/Users/main/xmlparser/obj/Debug/net5.0/xmlparser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/main/xmlparser/obj/Debug/net5.0/xmlparser.AssemblyInfoInputs.cache
+/Users/main/xmlparser/obj/Debug/net5.0/xmlparser.AssemblyInfo.cs
+/Users/main/xmlparser/obj/Debug/net5.0/xmlparser.csproj.CoreCompileInputs.cache
+/Users/main/xmlparser/obj/Debug/net5.0/xmlparser.dll
+/Users/main/xmlparser/obj/Debug/net5.0/ref/xmlparser.dll
+/Users/main/xmlparser/obj/Debug/net5.0/xmlparser.pdb
+/Users/main/xmlparser/obj/Debug/net5.0/xmlparser.genruntimeconfig.cache
