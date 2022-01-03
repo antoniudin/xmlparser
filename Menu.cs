@@ -7,6 +7,7 @@ namespace xmlparser
 {
     class Menu 
     {
+
         internal static void ShowMenu() {
             //Load the document
             XmlDocument xmlDoc = new XmlDocument();
@@ -25,8 +26,10 @@ namespace xmlparser
                 menu.Add(position);
             }
             //Print the menu
+                int counter = 1;
             foreach (Position position in menu) {
-                Console.WriteLine($"{position.Name} {position.Price}");
+                Console.WriteLine($"{counter} {position.Name} {position.Price}");
+                counter++;
             }
         }
     }
